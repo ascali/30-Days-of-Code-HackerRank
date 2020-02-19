@@ -1,4 +1,6 @@
 /*Day 2: Operators*/
+#! https://www.hackerrank.com/challenges/30-operators/problem
+
 #!JS
 // Complete the solve function below.
 function solve(meal_cost, tip_percent, tax_percent) {

@@ -1,4 +1,5 @@
 /* Day 6: Let's Review */
+#! https://www.hackerrank.com/challenges/30-review-loop
 
 #!JS
 var input = "2\nHacker\nRank";

@@ -1,4 +1,5 @@
 /* Day 3: Intro to Conditional Statements */
+#! https://www.hackerrank.com/challenges/30-conditional-statements
 
 #! JS
 function main() {

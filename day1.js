@@ -1,4 +1,5 @@
 /* Day 1 Variable */
+#! https://www.hackerrank.com/challenges/30-data-types/problem
 
 #! JS
 var i = 4
